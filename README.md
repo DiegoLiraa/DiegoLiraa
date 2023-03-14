@@ -4,4 +4,3 @@
 - 📫 How to reach me diegoliradev@gmail.com
 
 
-![Diego Lira GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoliraa&show_icons=true&theme=dracula)
